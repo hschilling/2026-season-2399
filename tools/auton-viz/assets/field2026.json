@@ -1,0 +1,10 @@
+{
+  "name": "2026 REBUILT Field",
+  "image": "field2026.png",
+  "source": "AdvantageScope Field2d_2026FRCFieldV2 (https://www.chiefdelphi.com/t/2026-rebuilt-high-resolution-field-image/510611)",
+  "coordinateSystem": "wall-blue",
+  "topLeft": [524, 95],
+  "bottomRight": [3378, 1489],
+  "widthInches": 651.22,
+  "heightInches": 317.677
+}
